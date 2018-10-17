@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "Sample Posts"
+    url: /year-archive/    
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Contact"
+    url: /contact/
   - title: "Sitemap"
     url: /sitemap/
